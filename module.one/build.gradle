@@ -1,0 +1,18 @@
+
+plugins {
+    id 'java' // Or 'java-library' if it is a library
+}
+
+java {
+    withJavadocJar()
+    withSourcesJar()
+    sourceCompatibility = JavaVersion.VERSION_24
+    targetCompatibility = JavaVersion.VERSION_24
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(24)
+    }
+}
+
+dependencies {
+    // Any other dependencies for this subproject go here.
+}
