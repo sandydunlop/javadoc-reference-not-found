@@ -15,4 +15,5 @@ java {
 
 dependencies {
     // Any other dependencies for this subproject go here.
+    implementation project(":com.example.moduleone")
 }

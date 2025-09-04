@@ -1,5 +1,4 @@
 /// Example module
-module module.one {
+module com.example.moduleone {
     exports com.example.botany.fruit;
-    // opens com.example.botany;
 }

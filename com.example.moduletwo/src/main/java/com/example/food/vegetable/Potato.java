@@ -1,7 +1,7 @@
 package com.example.food.vegetable;
 
 /// Example class
-/// [module.one/com.example.botany.fruit.Tomato] is a reference to a class
+/// [com.example.moduleone/com.example.botany.fruit.Tomato] is a reference to a class
 public class Potato {
 
     /// Default constructor

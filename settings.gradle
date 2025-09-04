@@ -1,4 +1,4 @@
 rootProject.name = 'example'
 
-include(':module.one')
-include(':module.two')
+include(':com.example.moduleone')
+include(':com.example.moduletwo')

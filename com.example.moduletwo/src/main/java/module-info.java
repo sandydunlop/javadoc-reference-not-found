@@ -1,4 +1,4 @@
 /// Example module
-module module.two {
+module com.example.moduletwo {
     exports com.example.food.vegetable;
 }
